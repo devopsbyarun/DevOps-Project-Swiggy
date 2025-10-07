@@ -37,3 +37,7 @@ If you've successfully deployed the **Swiggy Clone App** using this project, I'd
 - 💬 **Share your experience** of deploying the app and the tools you used.
 
 > “DevOps is not just a job; it's a journey to continuously improve processes and automate solutions.” – **Kastro**
+
+setup 
+<img width="1279" height="691" alt="image" src="https://github.com/user-attachments/assets/0641e31c-cf63-4ec4-bad0-f34607c23a88" />
+
